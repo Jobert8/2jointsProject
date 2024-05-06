@@ -21,11 +21,10 @@ Features
 1. Launch the application.
 2. Enter the function in terms of x in the designated text field.
 3. Specify the lower and upper bounds for the root.
-4. Optionally, choose the "Auto Compute Bounds" checkbox to automatically compute bounds based on the function.
-5. Enter the maximum number of iterations for the root-finding process.
-6. Choose the root-finding method (Bisection or False Position).
-7. Click the "Calculate" button to compute the root.
-8. View the results displayed in the table.
+4. Enter the maximum number of iterations for the root-finding process.
+5. Choose the root-finding method (Bisection or False Position).
+6. Click the "Calculate" button to compute the root.
+7. View the results displayed in the table.
 ## Example
 Suppose you want to find the root of the function f(x) = x^2 - 4 using the Bisection Method with a lower bound of 0, upper bound of 3, and maximum iterations of 10. You would input the following values:
 
