@@ -43,3 +43,10 @@ Suppose you want to find the root of the function f(x) = x^2 - 4 using the Bisec
 * Max Iterations: 10
 
 After clicking "CalculateBisectionMethod," the program will display the root and the calculation details in the table.
+
+## 4 Pillars Of Object-Oriented Programming we Implemented
+* Encapsulation - In this project, the provided classes such as Mainframe, SimpleCalculator, BisectionMethodCalculator, and FalsePositionMethodCalculator encapsulate their data and methods, providing a clear interface for ineracting with thier functionality
+* Abstraction - In our code, class represents a specific components of the numerical computation tool, abstracting away the implementation details and exposing only the necessary methods and interfaces for interaction.
+* Inheritance - this pillar is not directly inherit by another classes but they are associated with the mainframe class. They recieve a reference to the mainframe instance in thier constructors, enabling them to interact with mainfram class. But surely, by extending Jframe, the mainframe class inherit all properties and methods of the Jframe class.
+* polymorphism - Both BisectionMethodCalculator and FalsepositionCalculator allows instances to be treated uniformly as Calculator objects. The Mainframe class can interact with  tihs calculator objects without needing to know thier specific types, promoting flexible code reuse.
+
