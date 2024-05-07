@@ -1,5 +1,11 @@
 # Root Finding Methods
 This Java application provides a user-friendly graphical interface for computing the roots of a function using two common root-finding methods: the Bisection Method and the False Position Method.
+
+## SDG (Sustainable Development Goal's)
+1. Quality Education - This project contributes for providing a tool that can be used for educational purposes, helping students and learn understanding and apply numerical methods for solving equations.
+2. Industry, Innovation, and Insfrastruture - This project promotes innovation by providing a sofrware tool that utilizes numerical methods for solving mathematical problems, contributing to advancement of thecnology in the field of computational mathematics.
+3. Responsible Consumption and production - This project promotes responsible consumption by providing a software tool that allows users to efficiently solve mathematical problems, potentially reducing the need for paper-based calculations and minimizing resource consumption.
+
 ## Overview
 Root finding is a fundamental problem in mathematics and computer science, often encountered in various scientific and engineering applications. This application simplifies the process of finding roots by providing an intuitive GUI where users can input a function, specify bounds, choose a root-finding method, and view the results in a table format.
 ## Features
