@@ -2,7 +2,7 @@
 This Java application provides a user-friendly graphical interface for computing the roots of a function using two common root-finding methods: the Bisection Method and the False Position Method.
 ## Overview
 Root finding is a fundamental problem in mathematics and computer science, often encountered in various scientific and engineering applications. This application simplifies the process of finding roots by providing an intuitive GUI where users can input a function, specify bounds, choose a root-finding method, and view the results in a table format.
-Features
+## Features
 * User-friendly GUI: Intuitive graphical interface for inputting function parameters and viewing results.
 * Bisection Method: Compute roots using the Bisection Method, a simple and robust numerical method for finding roots of continuous functions.
 * False Position Method: Compute roots using the False Position Method, also known as the Regula Falsi method, which is a more sophisticated variant of the Bisection Method.
