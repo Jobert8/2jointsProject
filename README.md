@@ -8,6 +8,9 @@ This Java application provides a user-friendly graphical interface for computing
 
 ## Overview
 Root finding is a fundamental problem in mathematics and computer science, often encountered in various scientific and engineering applications. This application simplifies the process of finding roots by providing an intuitive GUI where users can input a function, specify bounds, choose a root-finding method, and view the results in a table format.
+## Application GUI
+![image](https://github.com/Jobert8/2jointsProject/assets/169036882/d05191af-7299-4767-8e86-06545384cd54)
+
 ## Features
 * User-friendly GUI: Intuitive graphical interface for inputting function parameters and viewing results.
 * Bisection Method: Compute roots using the Bisection Method, a simple and robust numerical method for finding roots of continuous functions.
